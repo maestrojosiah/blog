@@ -1,0 +1,5 @@
+development:
+  kannnel_url: http://localhost:13000 # Kannel server host
+  sendsms_port: 13013 # Kannel sendsms port
+  username: kanneluser # Kannel sendsms-user username
+  password: kannelpass # Kannel sendsms-user password
